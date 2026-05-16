@@ -1,0 +1,8 @@
+{
+  "name": "Game Master - لعبة مغامرات",
+  "description": "لعبة مغامرات وبقاء تفاعلية بالذكاء الاصطناعي، حيث تقود القصة وتواجه تحديات غامضة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
